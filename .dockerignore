@@ -1,0 +1,9 @@
+.git
+.gitignore
+.venv
+__pycache__
+*.py[cod]
+.pytest_cache
+.ipynb_checkpoints
+datasets
+train.py
